@@ -22,7 +22,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
           onPressed: () {
             //Get the current location
           },
-          child: Text('Get'),
+          child: Text('Get Location now'),
         ),
       ),
     );
